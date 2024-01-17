@@ -1,0 +1,29 @@
+header{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p{
+    font-size: 22px;
+}
+
+main{
+    margin-left: 40px;
+    
+}
+
+.box{
+    display: block;
+    float: left;
+    width: 30%;
+    padding: 10px;
+    padding-left: 12px;
+
+}
+
+img{
+    width: 100%;
+
+}
+
